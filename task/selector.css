@@ -1,0 +1,20 @@
+#name,#lmao{
+    background-color: brown;
+}
+.url{
+
+    background-color: blueviolet;
+}
+button
+{
+    background-color: blue;
+}*
+{
+    background-color:rgb(18, 18, 3);color: beige;
+
+}
+.new button:not(#never)
+{background-color: black;}
+.new button:active
+{background-color:white;}
+
